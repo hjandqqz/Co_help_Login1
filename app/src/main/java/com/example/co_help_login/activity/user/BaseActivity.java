@@ -14,6 +14,7 @@ import com.example.co_help_login.R;
 import com.example.co_help_login.biz.UserBiz;
 import com.example.co_help_login.listener.ClickListener;
 
+//基本活动
 public class BaseActivity extends AppCompatActivity {
     private ProgressDialog eLoadingDialog;
     private Toolbar toolbar;
